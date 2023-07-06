@@ -1,8 +1,5 @@
-# Restaurant Server App
-Restaurant server app is an application to manage cuisines data of a restaurant. This app has : 
-* RESTful endpoint for asset's create, read, and delete operation
-* JSON formatted response
-
+# IsAvailable Reservation App
+IsAvailable Reservation App is an application to handle reservations from all types of business.
 &nbsp;
 
 ## RESTful Endpoints
