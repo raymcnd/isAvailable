@@ -1,7 +1,9 @@
 import { defineStore } from 'pinia'
 import axios from 'axios'
 
-const baseUrl = "https://ieat.raymcnd.space";
+// const baseUrl = "https://ieat.raymcnd.space";
+const baseUrl = "http://localhost:3000";
+
 
 export const useReservationStore = defineStore('reservation', {
   state: () => ({
